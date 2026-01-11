@@ -6,6 +6,10 @@
 # the instructions on the README page and link to your repo in your application.
 # If you do not link to your repo, your application will be automatically denied.
 
+# Leave all code you used in this R script with comments as appropriate.
+# Let us know if you have any questions!
+
+
 # You can use the resources available on our training website for help:
 # Intro to R: https://mbite.org/intro-to-r
 # Version Control with Git: https://mbite.org/intro-to-git/
@@ -34,7 +38,7 @@
 
 
 # Prepare/combine the data for plotting ------------------------
-# How can you combine this data
+# How can you combine this data into one data.frame?
 
 
 
@@ -45,3 +49,4 @@
 
 
 ## Save the plot
+### Show code for saving the plot with ggsave() or a similar function
